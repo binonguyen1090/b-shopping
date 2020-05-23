@@ -5,6 +5,7 @@ import logo from '../../asset/logo.jpg'
 import {auth} from '../../firebase/firebase.utils'
 import {connect} from 'react-redux'
 import Carticon from '../cart-icon/cart-icon.component'
+import CartDropdown from '../cart-dropdown/cart-dropdown.component'
 
 const Header = ({ currentUser }) => (
   <div className="header">
@@ -30,6 +31,7 @@ const Header = ({ currentUser }) => (
       )}
       <Carticon />
     </div>
+    <CartDropdown />
   </div>
 );
 const mapStatetoProps = (state) => ({
