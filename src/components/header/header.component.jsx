@@ -32,4 +32,4 @@ const Header = ({ currentUser }) => (
 const mapStatetoProps = (state) => ({
   currentUser: state.user.currentUser
 })
-export default connect()(Header)
+export default connect(mapStatetoProps)(Header);
