@@ -18,7 +18,6 @@ class App extends React.Component {
   componentDidMount(){
     this.unSubscribeFromAuth = auth.onAuthStateChanged((user) => {
       this.setState({ currentUser: user });
-      console.log(user);
     });
   }
   componentWillUnmount(){
@@ -28,13 +27,12 @@ class App extends React.Component {
 
     return (
       <div>
-        <Header />
+        <Header currentUser={this.state.currentUser} />
         <Switch>
           <Route exact path='/' component={Homepage} />
           <Route path='/shop' component={ShopPage} />
           <Route path='/signin' component={SignInAndSignUpPage} />
         </Switch>
-        {/* <Route exec path component/> */}
       </div>
     );
   }
