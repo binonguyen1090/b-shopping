@@ -9,6 +9,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ![Screen Shot 2020-05-23 at 4 29 31 PM](https://user-images.githubusercontent.com/38637651/82740982-538e5e00-9d13-11ea-9caa-65590130e3a3.png)
 
+![Screen Shot 2020-05-25 at 7 49 05 PM](https://user-images.githubusercontent.com/38637651/82850165-d7d21400-9ec0-11ea-9bb1-7ae4153a9c93.png)
 
 
 
