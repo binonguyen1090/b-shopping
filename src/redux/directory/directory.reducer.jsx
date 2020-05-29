@@ -2,19 +2,19 @@ const INITIAL_STATE = {
   sections: [
     {
       title: "hats",
-      imageUrl: "https://i.ibb.co/cvpntL1/hats.png",
+      imageUrl: "https://i.ibb.co/HYzpz6L/hats2.jpg",
       id: 1,
       linkUrl: "shop/hats",
     },
     {
       title: "jackets",
-      imageUrl: "https://i.ibb.co/px2tCc3/jackets.png",
+      imageUrl: "https://i.ibb.co/0M4Bt6c/jackets.jpg",
       id: 2,
       linkUrl: "shop/jackets",
     },
     {
       title: "sneakers",
-      imageUrl: "https://i.ibb.co/0jqHpnp/sneakers.png",
+      imageUrl: "https://i.ibb.co/R9sKqcZ/sneakers.jpg",
       id: 3,
       linkUrl: "shop/sneakers",
     },
@@ -27,7 +27,7 @@ const INITIAL_STATE = {
     },
     {
       title: "mens",
-      imageUrl: "https://i.ibb.co/R70vBrQ/men.png",
+      imageUrl: "https://i.ibb.co/JnS7yLS/messi.jpg",
       size: "large",
       id: 5,
       linkUrl: "shop/mens",
