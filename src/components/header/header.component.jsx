@@ -15,6 +15,25 @@ const Header = ({ currentUser, hidden }) => (
     <Link className="logo-container" to="/">
       <img className="logo" src={logo} alt="" />
     </Link>
+    <div className="link-personal">
+      <a
+        href="https://github.com/binonguyen1090"
+        target="_blank"
+        id="navcontent"
+      >
+        <i className="fab fa-github"></i>
+      </a>
+      <a
+        href="https://www.linkedin.com/in/binonguyen1090"
+        target="_blank"
+        id="navcontent"
+      >
+        <i className="fab fa-linkedin"></i>
+      </a>
+      <a href="https://www.binonguyen.com/" target="_blank " id="navcontent">
+        <i className="fas fa-portrait"></i>
+      </a>
+    </div>
     <div className="options">
       <Link className="option" to="/shop">
         SHOP
