@@ -1,6 +1,13 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-###### Under construction
-### B-Shop is an e-commerce application for fashion that build with React, Redux, JavaScript, Firebase, Stripe, Hooks, Context API, GraphQL, HTML5, Nodejs and CSS3.
+### B-Shop - An interactive E-commerce platform for buyers build with React, Redux, JavaScript, Firebase, Stripe, Hooks, Context API, Express, OAuth, Axios, GraphQL, HTML5, Nodejs and CSS3.
+
+* Utilized Redux unidirectional data flow, memorized selector reselect and redux-thunk with asynchronous
+JavaScript to provide a seamless user experience across all React components
+* Applied CSS media queries, and flexbox functionality to enhance responsiveness across various devices
+* Implemented a secure shopping cart, checkout functionality and credit/debit card payment system with
+Stripe technology
+* Built register and login system besides Google login service
+###### Live [https://bshops.herokuapp.com/](url)
+
 
 
 ![Screen Shot 2020-05-29 at 12 24 06 PM](https://user-images.githubusercontent.com/38637651/83287595-8f0fa900-a1a7-11ea-97bb-bcbc27630e5f.png)
