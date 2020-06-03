@@ -45,7 +45,7 @@ Image sizes and columns are adjusted based on the size of the screen, allowing f
 
 ## Checkout with credit payment
 ![Screen Shot 2020-05-29 at 12 07 12 AM](https://user-images.githubusercontent.com/38637651/83223793-6fde3080-a141-11ea-95fa-9753f3f977d9.png)
-![Screen Shot 2020-05-29 at 12 07 12 AM](https://user-images.githubusercontent.com/38637651/83223793-6fde3080-a141-11ea-95fa-9753f3f977d9.png)
+
 ## Future Implementations
 * Testing
 * Hooks
